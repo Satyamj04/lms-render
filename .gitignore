@@ -1,0 +1,5 @@
+media/
+*.mp4
+*.sqlite3
+__pycache__/
+.env
